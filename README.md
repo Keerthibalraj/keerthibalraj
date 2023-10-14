@@ -11,7 +11,13 @@
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
     <a href="https://github.com/keerthibalraj5011">
-    <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" />        
+    <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+    <a href="https://www.kaggle.com/kbalraj">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+    <a href="https://scholar.google.co.in/citations?user=QGZb-TQAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
 </p>
