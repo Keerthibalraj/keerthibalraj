@@ -7,8 +7,11 @@
   <a href="https://www.linkedin.com/in/keerthiveena-balraj-8aa217a1/">
 	  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="">
+  <a href="https://www.instagram.com/keerthiveena.23/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+    <a href="https://github.com/keerthibalraj5011">
+    <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" />        
   </a>&nbsp;&nbsp;
   
 </p>
