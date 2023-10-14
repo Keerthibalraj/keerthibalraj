@@ -19,11 +19,11 @@
 
 - 📫 How to reach me **keerthibalraj5011@gmail.com**
   
-- <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="python" width="40" height="40"/> https://github.com/keerthibalraj5011
+- <a href= "https://github.com/keerthibalraj5011"><img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="python" width="40" height="40"/>  </a>&nbsp;&nbsp;
 
 - <img scr="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/> https://www.kaggle.com/kbalraj
   
--<img scr= "https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/> https://scholar.google.co.in/citations?user=QGZb-TQAAAAJ&hl=en
+- <img scr= "https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/> https://scholar.google.co.in/citations?user=QGZb-TQAAAAJ&hl=en
 
 💡 If you share a passion for healthcare, AI, or anything tech-related, let's connect and collaborate. Together, we can continue to push the boundaries of medical image analysis and make a real difference in the world.
 
