@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Keerthiveena Balraj</h1>
+<h1 align="center">Hi there 👋, I'm Keerthiveena Balraj 👨‍💻 </h1>
 
 🚀 Currently, I'm working as a postdoctoral researcher and coordinator of the data analytics division at the CBT, Indian Institute of Technology, Delhi.
 
@@ -12,13 +12,10 @@
   </a>&nbsp;&nbsp;
   
 </p>
+
 👨‍💻 I manage research and development efforts in mobile health for heart failure, pancreatic cancer, brain tumor identification, and video-based cardiac function monitoring.
 
-🏥 My journey has been dedicated to leveraging the power of data and cutting-edge technology to advance healthcare. From developing AI-driven diagnostic tools to optimizing medical imaging workflows, I've had the privilege of making a meaningful impact on patient care.
-
 🔬 My work revolves around harnessing the potential of artificial intelligence and deep learning in the interpretation of medical images. I'm passionate about improving the accuracy and efficiency of diagnoses and treatment decisions.
-
-🌟 Throughout my career, I've had the opportunity to contribute to the development of innovative solutions in this domain. You can explore some of my projects and contributions right here on GitHub.
 
 - 📫 How to reach me **keerthibalraj5011@gmail.com**
   
@@ -32,7 +29,15 @@
 
 🔨 Languages and Tools:
 🤖 Artificial Intelligence 
-<img src="{[BadgeURLHere](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)}" /> <img src="{[BadgeURLHere](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)}" /> <img src="{[BadgeURLHere](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white}" /> <img src="{BadgeURLHere}" /> <img src="{BadgeURLHere}" />
+
+<p align='left'>
+  🤖 Artificial Intelligence <br/><br/>
+  <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+
+</p>
+
 	
  
  	
