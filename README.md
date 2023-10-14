@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **keerthibalraj5011@gmail.com**
   
-- ![image](https://github.com/Keerthibalraj/keerthibalraj/assets/86064505/6dce7be9-961c-45af-a5fd-7a83fbb8ca96) github profile: https://github.com/keerthibalraj5011
+- <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="python" width="40" height="40"/> github profile: https://github.com/keerthibalraj5011
 
 - -Kaggle profile: https://www.kaggle.com/kbalraj
   
