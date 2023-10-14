@@ -19,7 +19,9 @@
 
 - 📫 How to reach me **keerthibalraj5011@gmail.com**
   
-- <a href= "https://github.com/keerthibalraj5011"><img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="python" width="40" height="40"/>  </a>&nbsp;&nbsp;
+- <a href= "https://github.com/keerthibalraj5011">
+	<img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="python" width="40" height="40"/>  
+</a>&nbsp;&nbsp;
 
 - <img scr="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/> https://www.kaggle.com/kbalraj
   
