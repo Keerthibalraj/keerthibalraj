@@ -4,7 +4,7 @@
 
 🚀 Currently, I'm working as a postdoctoral researcher and coordinator of the data analytics division at the CBT, Indian Institute of Technology, Delhi.
 
-- 👨‍💻 I manage research and development efforts in mobile health for heart failure, pancreatic cancer, brain tumor identification, and video-based cardiac function monitoring.
+👨‍💻 I manage research and development efforts in mobile health for heart failure, pancreatic cancer, brain tumor identification, and video-based cardiac function monitoring.
 
 🏥 My journey has been dedicated to leveraging the power of data and cutting-edge technology to advance healthcare. From developing AI-driven diagnostic tools to optimizing medical imaging workflows, I've had the privilege of making a meaningful impact on patient care.
 
@@ -14,12 +14,13 @@
 
 - 📫 How to reach me **keerthibalraj5011@gmail.com**
   
-- github profile: https://github.com/keerthibalraj5011
+- ![image](https://github.com/Keerthibalraj/keerthibalraj/assets/86064505/6dce7be9-961c-45af-a5fd-7a83fbb8ca96) github profile: https://github.com/keerthibalraj5011
 
 - -Kaggle profile: https://www.kaggle.com/kbalraj
   
 -Google Scholar profile:  https://scholar.google.co.in/citations?user=QGZb-TQAAAAJ&hl=en
 
 💡 If you share a passion for healthcare, AI, or anything tech-related, let's connect and collaborate. Together, we can continue to push the boundaries of medical image analysis and make a real difference in the world.
-Languages and Tools:
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+
+🔨 Languages and Tools:
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" alt="flask" width="40" height="40"/ > <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="aws" width="40" height="40"/ > <img src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" alt="Tensorflow" width="40" height="40"/ > 
