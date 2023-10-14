@@ -23,4 +23,7 @@
 💡 If you share a passion for healthcare, AI, or anything tech-related, let's connect and collaborate. Together, we can continue to push the boundaries of medical image analysis and make a real difference in the world.
 
 🔨 Languages and Tools:
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" alt="flask" width="40" height="40"/ > <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="aws" width="40" height="40"/ > <img src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" alt="Tensorflow" width="40" height="40"/ > 
+🤖 Artificial Intelligence 
+	https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white
+ https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white
+ 	https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
