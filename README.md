@@ -2,6 +2,12 @@
 
 🚀 Currently, I'm working as a postdoctoral researcher and coordinator of the data analytics division at the CBT, Indian Institute of Technology, Delhi.
 
+👨‍💻 I manage research and development efforts in mobile health for heart failure, pancreatic cancer, brain tumor identification, and video-based cardiac function monitoring.
+
+🔬 My work revolves around harnessing the potential of artificial intelligence and deep learning in the interpretation of medical images. I'm passionate about improving the accuracy and efficiency of diagnoses and treatment decisions.
+
+📫 How to reach me **keerthibalraj5011@gmail.com**
+
 <p align='center'>
   
   <a href="https://www.linkedin.com/in/keerthiveena-balraj-8aa217a1/">
@@ -24,12 +30,6 @@
 
 
 </p>
-
-👨‍💻 I manage research and development efforts in mobile health for heart failure, pancreatic cancer, brain tumor identification, and video-based cardiac function monitoring.
-
-🔬 My work revolves around harnessing the potential of artificial intelligence and deep learning in the interpretation of medical images. I'm passionate about improving the accuracy and efficiency of diagnoses and treatment decisions.
-
-📫 How to reach me **keerthibalraj5011@gmail.com**
 
 
 🔨 Languages and Tools:
