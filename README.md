@@ -27,8 +27,6 @@
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />        
   </a>&nbsp;&nbsp;
 
-
-
 </p>
 
 
