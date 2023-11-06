@@ -6,7 +6,7 @@
 
 🔬 My work revolves around harnessing the potential of artificial intelligence and deep learning in the interpretation of medical images. I'm passionate about improving the accuracy and efficiency of diagnoses and treatment decisions.
 
-📫 How to reach me **keerthibalraj5011@gmail.com** **keerthi.visitor@iitd.ac.in**
+📫 How to reach me **keerthibalraj5011@gmail.com** **keerthi.visitor@iitd.ac.in** 
 
 <p align='center'>
   
